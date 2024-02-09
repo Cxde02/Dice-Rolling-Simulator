@@ -109,7 +109,7 @@ while True:
     if userInput == "r":
         result = sum_Of_Die()
         print('--------------------------')
-        print("Sum of the dice:", result)
+        print("Sum:", result)
     elif userInput == "q":
         print('Exiting the program...')
         break
